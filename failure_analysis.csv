@@ -1,0 +1,2 @@
+tweet_id,message,historical_reply,human_intent,human_decision,suggested_intent,suggested_decision
+698,@AppleSupport  https://t.co/NV0yucs0lB,@115854 We're here for you. Which version of the iOS are you running? Check from Settings &gt; General &gt; About.,battery_issue,AUTO-HANDLE,general_issue,ESCALATE

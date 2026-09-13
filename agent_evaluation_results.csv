@@ -1,0 +1,7 @@
+Metric,Score
+Intent Accuracy,0.9933333333333333
+Intent Macro Precision,0.9964285714285716
+Intent Macro Recall,0.9875
+Intent Macro F1,0.9917465852949725
+Decision Accuracy,0.9933333333333333
+Decision Macro F1,0.9931728187155796
